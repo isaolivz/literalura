@@ -39,7 +39,7 @@ O projeto oferece um menu interativo com as seguintes opções:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/literalura.git](https://github.com/seu-usuario/literalura.git)
+    git clone [https://github.com/isaolivz/literalura.git](https://github.com/isaolivz/literalura.git)
     cd literalura
     ```
 2.  **Crie o banco de dados:**
